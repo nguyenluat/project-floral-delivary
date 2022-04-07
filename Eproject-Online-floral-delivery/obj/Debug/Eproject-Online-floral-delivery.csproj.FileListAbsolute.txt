@@ -1,0 +1,485 @@
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Eproject-Online-floral-delivery.dll.config
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Eproject-Online-floral-delivery.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Eproject-Online-floral-delivery.pdb
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csc.exe
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csc.exe.config
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csc.rsp
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csi.exe
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csi.exe.config
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csi.rsp
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.AppContext.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Console.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.IO.Compression.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Net.Http.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Net.Sockets.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.ValueTuple.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Xml.XPath.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/vbc.exe
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/vbc.exe.config
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/vbc.rsp
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/VBCSCompiler.exe
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Antlr3.Runtime.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/AWSSDK.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/BCrypt.Net-Next.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.Core.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.Core.UI.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.InfoCard.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.InfoCard.UI.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.Common.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.Consumer.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.ServiceProvider.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.Client.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.Client.UI.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.ResourceServer.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.Provider.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.Provider.UI.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.RelyingParty.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.UI.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenIdInfoCard.UI.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenIdOAuth.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/EntityFramework.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/EntityFramework.SqlServer.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.IdentityModel.Logging.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.IdentityModel.Tokens.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Newtonsoft.Json.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/PayPal.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Buffers.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Memory.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Net.Http.Formatting.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Numerics.Vectors.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Cors.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Helpers.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.Cors.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.WebHost.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Mvc.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Optimization.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Razor.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.Deployment.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.Razor.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Twilio.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/WebGrease.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Org.Mentalis.Security.Cryptography.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Mono.Math.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/AWSSDK.pdb
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/BCrypt.Net-Next.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.Core.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.Core.UI.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.InfoCard.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.InfoCard.UI.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.Common.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.Consumer.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.ServiceProvider.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.Client.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.Client.UI.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.ResourceServer.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.Provider.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.Provider.UI.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.RelyingParty.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.UI.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenIdInfoCard.UI.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenIdOAuth.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/EntityFramework.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/EntityFramework.SqlServer.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.IdentityModel.Tokens.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/PayPal.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Buffers.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.IdentityModel.Tokens.Jwt.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Memory.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Net.Http.Formatting.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Numerics.Vectors.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Runtime.CompilerServices.Unsafe.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.Cors.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.WebHost.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Helpers.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Mvc.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Optimization.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Razor.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.Deployment.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.Razor.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Newtonsoft.Json.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Twilio.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Antlr3.Runtime.pdb
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Org.Mentalis.Security.Cryptography.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Mono.Math.xml
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/obj/Debug/Eproject-Online-floral-delivery.csproj.CoreCompileInputs.cache
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/obj/Debug/Eproject-Online-floral-delivery.csproj.CopyComplete
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/obj/Debug/Eproject-Online-floral-delivery.dll
+C:/Users/NguyenTu/Desktop/EProject-Sem3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/obj/Debug/Eproject-Online-floral-delivery.pdb
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/obj/Debug/Eproject-Online-floral-delivery.csproj.CoreCompileInputs.cache
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/obj/Debug/Eproject-Online-floral-delivery.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/obj/Debug/Eproject-Online-floral-delivery.pdb
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Eproject-Online-floral-delivery.dll.config
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Eproject-Online-floral-delivery.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Eproject-Online-floral-delivery.pdb
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csc.exe
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csc.exe.config
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csc.rsp
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csi.exe
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csi.exe.config
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csi.rsp
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.AppContext.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Collections.Immutable.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Console.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Globalization.Calendars.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.IO.Compression.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.IO.FileSystem.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Net.Http.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Net.Sockets.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Reflection.Metadata.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.ValueTuple.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Xml.XPath.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/vbc.exe
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/vbc.exe.config
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/vbc.rsp
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/VBCSCompiler.exe
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/VBCSCompiler.exe.config
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Antlr3.Runtime.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/AWSSDK.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/BCrypt.Net-Next.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.Core.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.Core.UI.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.InfoCard.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.InfoCard.UI.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.Common.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.Consumer.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.ServiceProvider.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.Client.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.Client.UI.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.ResourceServer.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.Provider.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.Provider.UI.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.RelyingParty.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.UI.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenIdInfoCard.UI.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenIdOAuth.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/EntityFramework.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/EntityFramework.SqlServer.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.IdentityModel.Logging.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.IdentityModel.Tokens.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.Web.Infrastructure.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Newtonsoft.Json.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/PayPal.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Buffers.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.IdentityModel.Tokens.Jwt.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Memory.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Net.Http.Formatting.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Numerics.Vectors.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Runtime.CompilerServices.Unsafe.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Cors.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Helpers.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.Cors.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.WebHost.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Mvc.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Optimization.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Razor.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.Deployment.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.Razor.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Twilio.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/WebGrease.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Org.Mentalis.Security.Cryptography.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Mono.Math.dll
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/AWSSDK.pdb
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/BCrypt.Net-Next.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.Core.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.Core.UI.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.InfoCard.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.InfoCard.UI.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.Common.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.Consumer.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.ServiceProvider.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.Client.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.Client.UI.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.ResourceServer.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.Provider.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.Provider.UI.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.RelyingParty.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.UI.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenIdInfoCard.UI.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenIdOAuth.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/EntityFramework.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/EntityFramework.SqlServer.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.IdentityModel.Tokens.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/PayPal.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Buffers.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.IdentityModel.Tokens.Jwt.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Memory.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Net.Http.Formatting.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Numerics.Vectors.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Runtime.CompilerServices.Unsafe.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.Cors.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.WebHost.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Helpers.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Mvc.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Optimization.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Razor.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.Deployment.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.Razor.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Newtonsoft.Json.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Twilio.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Antlr3.Runtime.pdb
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Org.Mentalis.Security.Cryptography.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Mono.Math.xml
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/obj/Debug/Eproject-Online-floral-delivery.csproj.CopyComplete
+C:/Eproject-SEM3/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/obj/Debug/Eproject-Online-floral-delivery.csproj.AssemblyReference.cache
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Eproject-Online-floral-delivery.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Eproject-Online-floral-delivery.pdb
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csc.exe
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csc.exe.config
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csc.rsp
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csi.exe
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csi.exe.config
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/csi.rsp
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/Microsoft.Win32.Primitives.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.AppContext.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Collections.Immutable.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Console.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Globalization.Calendars.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.IO.Compression.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.IO.Compression.ZipFile.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.IO.FileSystem.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Net.Http.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Net.Sockets.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Reflection.Metadata.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.ValueTuple.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Xml.XPath.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/vbc.exe
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/vbc.exe.config
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/vbc.rsp
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/VBCSCompiler.exe
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/roslyn/VBCSCompiler.exe.config
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Antlr3.Runtime.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/AWSSDK.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/BCrypt.Net-Next.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.Core.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.Core.UI.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.InfoCard.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.InfoCard.UI.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.Common.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.Consumer.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.ServiceProvider.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.Client.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.Client.UI.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.ResourceServer.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.Provider.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.Provider.UI.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.RelyingParty.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.UI.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenIdInfoCard.UI.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenIdOAuth.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/EntityFramework.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/EntityFramework.SqlServer.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.IdentityModel.Logging.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.IdentityModel.Tokens.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.Web.Infrastructure.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Newtonsoft.Json.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/PayPal.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Buffers.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.IdentityModel.Tokens.Jwt.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Memory.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Net.Http.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Net.Http.Formatting.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Net.Http.WebRequest.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Numerics.Vectors.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Runtime.CompilerServices.Unsafe.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Cors.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Helpers.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.Cors.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.WebHost.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Mvc.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Optimization.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Razor.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.Deployment.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.Razor.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Twilio.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/WebGrease.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Org.Mentalis.Security.Cryptography.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Mono.Math.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/AWSSDK.pdb
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/BCrypt.Net-Next.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.Core.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.Core.UI.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.InfoCard.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.InfoCard.UI.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.Common.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.Consumer.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth.ServiceProvider.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.Client.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.Client.UI.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OAuth2.ResourceServer.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.Provider.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.Provider.UI.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.RelyingParty.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenId.UI.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenIdInfoCard.UI.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/DotNetOpenAuth.OpenIdOAuth.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/EntityFramework.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/EntityFramework.SqlServer.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.IdentityModel.Tokens.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/PayPal.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Buffers.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.IdentityModel.Tokens.Jwt.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Memory.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Net.Http.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Net.Http.Formatting.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Net.Http.WebRequest.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Numerics.Vectors.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Runtime.CompilerServices.Unsafe.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.Cors.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Http.WebHost.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Helpers.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Mvc.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Optimization.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.Razor.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.Deployment.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/System.Web.WebPages.Razor.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Newtonsoft.Json.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Twilio.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Antlr3.Runtime.pdb
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Org.Mentalis.Security.Cryptography.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/bin/Mono.Math.xml
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/obj/Debug/Eproject-Online-floral-delivery.csproj.AssemblyReference.cache
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/obj/Debug/Eproject-Online-floral-delivery.csproj.CoreCompileInputs.cache
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/obj/Debug/Eproject-Online-floral-delivery.csproj.CopyComplete
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/obj/Debug/Eproject-Online-floral-delivery.dll
+/Users/superman/Library/Mobile Documents/com~apple~CloudDocs/files/Eproject-Online-floral-delivery/Eproject-Online-floral-delivery/obj/Debug/Eproject-Online-floral-delivery.pdb

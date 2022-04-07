@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="aa796a4614ae4ae18c8aa58e92d4afb5" Name="Diagram1">
+        <EntityTypeShape EntityType="Eproject_FloralBKModel.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Eproject_FloralBKModel.tbl_cart" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Eproject_FloralBKModel.tbl_category" Width="1.5" PointX="0.75" PointY="34" IsExpanded="true" />
+        <EntityTypeShape EntityType="Eproject_FloralBKModel.tbl_customer" Width="1.5" PointX="0.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Eproject_FloralBKModel.tbl_district" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Eproject_FloralBKModel.tbl_imageList" Width="1.5" PointX="5.25" PointY="34.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Eproject_FloralBKModel.tbl_message" Width="1.5" PointX="3" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Eproject_FloralBKModel.tbl_messageCategory" Width="1.5" PointX="0.75" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Eproject_FloralBKModel.tbl_order" Width="1.5" PointX="3" PointY="19.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Eproject_FloralBKModel.tbl_orderDetail" Width="1.5" PointX="5.25" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Eproject_FloralBKModel.tbl_paymentType" Width="1.5" PointX="0.75" PointY="20.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Eproject_FloralBKModel.tbl_product" Width="1.5" PointX="3" PointY="32.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Eproject_FloralBKModel.tbl_roles" Width="1.5" PointX="1.5" PointY="25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Eproject_FloralBKModel.tbl_shippingType" Width="1.5" PointX="0.75" PointY="27.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Eproject_FloralBKModel.tbl_statusOrder" Width="1.5" PointX="0.75" PointY="30.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Eproject_FloralBKModel.tbl_ward" Width="1.5" PointX="3" PointY="8.75" IsExpanded="true" />
+        <AssociationConnector Association="Eproject_FloralBKModel.FK_product_category" ManuallyRouted="false" />
+        <AssociationConnector Association="Eproject_FloralBKModel.FK_customer_role" ManuallyRouted="false" />
+        <AssociationConnector Association="Eproject_FloralBKModel.FK_order_customer" ManuallyRouted="false" />
+        <AssociationConnector Association="Eproject_FloralBKModel.FK_orderDetail_district" ManuallyRouted="false" />
+        <AssociationConnector Association="Eproject_FloralBKModel.FK_ward_district" ManuallyRouted="false" />
+        <AssociationConnector Association="Eproject_FloralBKModel.FK_imageList_product" ManuallyRouted="false" />
+        <AssociationConnector Association="Eproject_FloralBKModel.FK_message_messageCategory" ManuallyRouted="false" />
+        <AssociationConnector Association="Eproject_FloralBKModel.FK_orderDetail_message" ManuallyRouted="false" />
+        <AssociationConnector Association="Eproject_FloralBKModel.FK_order_paymentType" ManuallyRouted="false" />
+        <AssociationConnector Association="Eproject_FloralBKModel.FK_order_shippingType" ManuallyRouted="false" />
+        <AssociationConnector Association="Eproject_FloralBKModel.fk_order_statusOrder" ManuallyRouted="false" />
+        <AssociationConnector Association="Eproject_FloralBKModel.FK_orderDetail_order" ManuallyRouted="false" />
+        <AssociationConnector Association="Eproject_FloralBKModel.FK_orderDetail_product" ManuallyRouted="false" />
+        <AssociationConnector Association="Eproject_FloralBKModel.FK_orderDetail_ward" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
